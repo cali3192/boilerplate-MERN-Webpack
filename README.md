@@ -6,9 +6,14 @@ Set up for a a boiler plate for a MERN stack using Webpack
 
 - `npm install`
 - `npm start`
-- FILL ME IN WITH ADDITIONAL STEPS AS PART OF SUBMISSION PROCESS
+- `npm run build`
+- `npm run schema`
 
-## Requirements
+## Database
+
+This boilerplate will use MongoDB and Mongoose to store data. A template schema can be found in server/db/index.js. After the initial schema is created, the user will need to run the command `npm run build` in order to create your initial connection to the mongoose database.
+
+From there, your connection and new model can be accessed in the the Models file...
 
 In addition to your frequent commits, **make a commit after completing each of the following steps** (marked by check boxes), indicating that you have just completed it. It may not be the case that you have time to complete all of the following steps, but regardless, **you must work on them in order** (though there is an escape hatch for the back-end if you need).
 
