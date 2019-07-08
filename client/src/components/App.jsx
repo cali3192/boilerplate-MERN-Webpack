@@ -15,7 +15,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1> MERN Stack Boilerplate </h1>
+        <h1 className='jumbotron'> MERN Stack Boilerplate </h1>
       </div>
     );
   }

@@ -22910,7 +22910,7 @@
 	        null,
 	        _react2.default.createElement(
 	          'h1',
-	          null,
+	          { className: 'jumbotron' },
 	          ' MERN Stack Boilerplate '
 	        )
 	      );
