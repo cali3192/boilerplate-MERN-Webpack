@@ -4,7 +4,7 @@ var morgan = require('morgan');
 var pathfinderUI = require('pathfinder-ui');
 const path = require('path');
 
-const router = require('./router');
+const router = require('./router.js');
 
 // An instance of express
 var app = express();

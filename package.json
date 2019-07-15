@@ -1,7 +1,7 @@
 {
   "name": "mern-stack-boilerplate-webpack",
   "version": "1.0.0",
-  "description": "A Pokémon API",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server/index.js",
